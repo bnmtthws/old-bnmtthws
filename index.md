@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![mosquito on arm](/assets/mosquito.jpg)
